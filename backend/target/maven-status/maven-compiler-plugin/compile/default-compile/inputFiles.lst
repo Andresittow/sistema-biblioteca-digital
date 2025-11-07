@@ -1,0 +1,15 @@
+F:\2doMomentoPatrones\backend\src\main\java\com\biblioteca\controllers\BookController.java
+F:\2doMomentoPatrones\backend\src\main\java\com\biblioteca\models\User.java
+F:\2doMomentoPatrones\backend\src\main\java\com\biblioteca\BibliotecaApplication.java
+F:\2doMomentoPatrones\backend\src\main\java\com\biblioteca\patterns\factory\DigitalBook.java
+F:\2doMomentoPatrones\backend\src\main\java\com\biblioteca\patterns\singleton\LibraryManager.java
+F:\2doMomentoPatrones\backend\src\main\java\com\biblioteca\controllers\AuthController.java
+F:\2doMomentoPatrones\backend\src\main\java\com\biblioteca\patterns\factory\AudioBook.java
+F:\2doMomentoPatrones\backend\src\main\java\com\biblioteca\patterns\factory\EBook.java
+F:\2doMomentoPatrones\backend\src\main\java\com\biblioteca\models\Loan.java
+F:\2doMomentoPatrones\backend\src\main\java\com\biblioteca\patterns\facade\LibraryFacade.java
+F:\2doMomentoPatrones\backend\src\main\java\com\biblioteca\patterns\singleton\AuthenticationManager.java
+F:\2doMomentoPatrones\backend\src\main\java\com\biblioteca\patterns\factory\BookFactory.java
+F:\2doMomentoPatrones\backend\src\main\java\com\biblioteca\controllers\LoanController.java
+F:\2doMomentoPatrones\backend\src\main\java\com\biblioteca\patterns\factory\Book.java
+F:\2doMomentoPatrones\backend\src\main\java\com\biblioteca\services\DataService.java
